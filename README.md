@@ -4,6 +4,7 @@ Hello, this is the official hole dropper web, this was made by Allergic To Grass
 
 
 Known issues:
+
 the text overlapes
 
 the grey background goes through the black box at the bottem of the webpage if your res is small
