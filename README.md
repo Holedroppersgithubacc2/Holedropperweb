@@ -2,7 +2,7 @@ Hole dropper web
 ______________________________________________________________________________________________________________________________________
 #Description:
 
-This acplication is a website were its goal is to have an easy to use digital base platform were you can watch HoleDroppers videos more easy, see anocments, and get more info about HoleDroppers.
+This application is a website where the goal is to have an easy-to-use digital base platform where you can watch HoleDroppers videos more easily, see announcements, and get more info about HoleDroppers.
 
 The website was made using VisualStudioCode and GitHub.
 
@@ -11,7 +11,7 @@ ________________________________________________________________________________
 #Credits:
 
 This website was made by Allergic To Grass#0012 
-and a bit of help by SeeUd#5805
+and a bit of help from SeeUd#5805
 
 ______________________________________________________________________________________________________________________________________
 
@@ -23,8 +23,8 @@ ________________________________________________________________________________
 
 #Known Issues
 
-* The text overflow with eachother if your res is small
-* The grey background goes through the black boarder at the bottem
+* The text-overflow with eachother if your res is small
+* The grey background goes through the black border at the bottom
 
 ______________________________________________________________________________________________________________________________________
 
