@@ -1,12 +1,33 @@
-#HoleDropperWeb
+Hole dropper web
+______________________________________________________________________________________________________________________________________
+#Description:
 
-Hello, this is the official hole dropper web, this was made by Allergic To Grass#0012, this is licensed by "HoleDropperinc", If you have any questions please or want to join the team email us at holedropperinc@gmail.com, you do have permission to modify any of the code, and editor is vs.
+This acplication is a website were its goal is to have an easy to use digital base platform were you can watch HoleDroppers videos more easy, see anocments, and get more info about HoleDroppers.
+
+The website was made using VisualStudioCode and GitHub.
+
+______________________________________________________________________________________________________________________________________
+
+#Credits:
+
+This website was made by Allergic To Grass#0012 
+and a bit of help by SeeUd#5805
+
+______________________________________________________________________________________________________________________________________
+
+#Copyright
+
+Copyright © 2022, HoleDroppers. All rights reserved
+
+______________________________________________________________________________________________________________________________________
+
+#Known Issues
+
+* The text overflow with eachother if your res is small
+* The grey background goes through the black boarder at the bottem
+
+______________________________________________________________________________________________________________________________________
 
 
-Known issues:
-
-the text overlapes
-
-the grey background goes through the black box at the bottem of the webpage if your res is small
 
 
